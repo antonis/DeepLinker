@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DeepLinker</string>
+    <string name="hint">Link URL</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="open">Open Link</string>
+</resources>
